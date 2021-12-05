@@ -6,7 +6,7 @@ See the following files for more information:
 
 | #   | FR/LG/EMRD  | 1.8       | Translated    |
 | --- | ----------- | --------- | ------------- |
-| 0   | None        | ？？？？？  | None          |
+| 0   | ??????????  | ？？？？？  | ??????????    |
 | 1   | Bulbasaur   | ちびさなえ  | CSanae        |
 | 2   | Ivysaur     | さなえ     | Sanae         |
 | 3   | Venusaur    | ちびアリス  | CAlice        |
@@ -341,7 +341,7 @@ See the following files for more information:
 | 332 | Trapinch    | Dてぃ      | DTewi         |
 | 333 | Vibrava     | Aてぃ      | ATewi         |
 | 334 | Flygon      | Dえいき    | DShikieiki    |
-| 335 | Makuhita    | Dみのりこ   | AMinoriko     |
+| 335 | Makuhita    | Dみのりこ   | DMinoriko     |
 | 336 | Hariyama    | Tすいか    | TSuika        |
 | 337 | Electrike   | Aさなえ    | ASanae        |
 | 338 | Manectric   | Tさなえ    | TSanae        |
@@ -378,7 +378,7 @@ See the following files for more information:
 | 369 | Tropius     | 357       |               |
 | 370 | Whismur     | Dいく      | DIku          |
 | 371 | Loudred     | Tいく      | TIku          |
-| 372 | Exploud     | Aみのりこ   | DMinoriko     |
+| 372 | Exploud     | Aみのりこ   | AMinoriko     |
 | 373 | Clamperl    | りんのすけ  | Rinnosuke     |
 | 374 | Huntail     | チルノA    | AdCirno       |
 | 375 | Gorebyss    | レイセンA   | AdReisen      |
