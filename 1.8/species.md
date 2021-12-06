@@ -309,7 +309,7 @@ See the following files for more information:
 | 300 | Shiftry     | Sしずは    | SShizuha      |
 | 301 | Nincada     | Sりん      | SRin          |
 | 302 | Ninjask     | Aりん      | ARin          |
-| 303 | Shedinja    | ゾンビF    | ZombieFairy   |
+| 303 | Shedinja    | ゾンビF    | Zombie Fairy  |
 | 304 | Taillow     | Hしずは    | HShizuha      |
 | 305 | Swellow     | Aすわこ    | ASuwako       |
 | 306 | Shroomish   | Aしょう    | AShou         |
