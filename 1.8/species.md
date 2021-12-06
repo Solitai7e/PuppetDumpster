@@ -410,7 +410,7 @@ See the following files for more information:
 | 401 | Regirock    | ランA      | AdRan         |
 | 402 | Regice      | チェンA    | AdChen        |
 | 403 | Registeel   | 379       |               |
-| 404 | Kyogre      | アリスB    | DarkAlice     |
+| 404 | Kyogre      | アリスB    | Dark Alice    |
 | 405 | Groudon     | てんま     | Tenma         |
 | 406 | Rayquaza    | せんだい    | Sendai        |
 | 407 | Latias      | 380       |               |
