@@ -259,7 +259,7 @@ See the following files for more information:
 | 250 | Ho-Oh       | Mima       |
 | 251 | Celebi      | Sendai     |
 | 252 | Old Unown B | TensokuG   |
-| 253 | Old Unown C | ChampKasen |
+| 253 | Old Unown C | Alterisa   |
 | 254 | Old Unown D | VIVIT      |
 | 255 | Old Unown E | Satsuki    |
 | 256 | Old Unown F | Isami      |
