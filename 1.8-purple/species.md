@@ -277,8 +277,8 @@ See the following files for more information:
 | 268 | Old Unown R | JKSanae    |
 | 269 | Old Unown S | MPSuika    |
 | 270 | Old Unown T | Ayakashi   |
-| 271 | Old Unown U | AYoumu     |
-| 272 | Old Unown V | DToyohime  |
+| 271 | Old Unown U | Altoumu    |
+| 272 | Old Unown V | Altuyuko   |
 | 273 | Old Unown W | DLRuukoto  |
 | 274 | Old Unown X | MagiStones |
 | 275 | Old Unown Y | CKasen     |
