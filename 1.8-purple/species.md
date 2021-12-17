@@ -6,7 +6,7 @@ See the following files for more information:
 
 | #   | FR/LG/EMRD  | Purple     |
 | --- | ----------- | ---------- |
-| 0   | None        | ?????????? |
+| 0   | ??????????  | ?????????? |
 | 1   | Bulbasaur   | CSanae     |
 | 2   | Ivysaur     | Sanae      |
 | 3   | Venusaur    | CAlice     |
@@ -418,31 +418,3 @@ See the following files for more information:
 | 409 | Jirachi     | Miko       |
 | 410 | Deoxys      | 2hu        |
 | 411 | Chimecho    | CMiko      |
-| 412 | Egg         |            |
-| 413 | Unown B     |            |
-| 414 | Unown C     |            |
-| 415 | Unown D     |            |
-| 416 | Unown E     |            |
-| 417 | Unown F     |            |
-| 418 | Unown G     |            |
-| 419 | Unown H     |            |
-| 420 | Unown I     |            |
-| 421 | Unown J     |            |
-| 422 | Unown K     |            |
-| 423 | Unown L     |            |
-| 424 | Unown M     |            |
-| 425 | Unown N     |            |
-| 426 | Unown O     |            |
-| 427 | Unown P     |            |
-| 428 | Unown Q     |            |
-| 429 | Unown R     |            |
-| 430 | Unown S     |            |
-| 431 | Unown T     |            |
-| 432 | Unown U     |            |
-| 433 | Unown V     |            |
-| 434 | Unown W     |            |
-| 435 | Unown X     |            |
-| 436 | Unown Y     |            |
-| 437 | Unown Z     |            |
-| 438 | Unown Emark |            |
-| 439 | Unown Qmark |            |

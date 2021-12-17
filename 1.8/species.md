@@ -157,7 +157,7 @@ See the following files for more information:
 | 148 | Dragonair   | とよひめ    | Toyohime      |
 | 149 | Dragonite   | ゴリアテ    | Goliath       |
 | 150 | Mewtwo      | サリエル    | Sariel        |
-| 151 | Mew         | ミュウ     |               |
+| 151 | Mew         | ミュウ     | Mew           |
 | 152 | Chikorita   | あきゅう    | Akyuu         |
 | 153 | Bayleef     | げんじぃ    | Genjii        |
 | 154 | Meganium    | とり       | Tori          |
@@ -207,7 +207,7 @@ See the following files for more information:
 | 198 | Murkrow     | くるみ     | Kurumi        |
 | 199 | Slowking    | ちびりかこ  | CRikako       |
 | 200 | Misdreavus  | りかこ     | Rikako        |
-| 201 | Unown       | アンノーン  |               |
+| 201 | Unown       | アンノーン  | Unown         |
 | 202 | Wobbuffet   | ちびユキ    | CYuki         |
 | 203 | Girafarig   | ユキ       | Yuki          |
 | 204 | Pineco      | ちびマイ    | CMai          |
@@ -257,7 +257,7 @@ See the following files for more information:
 | 248 | Tyranitar   | Dもみじ    | DMomiji       |
 | 249 | Lugia       | エリス     | Elis          |
 | 250 | Ho-Oh       | みま       | Mima          |
-| 251 | Celebi      | セレビィ    |               |
+| 251 | Celebi      | セレビィ    | Celebi        |
 | 252 | Old Unown B | テンソクG   | TensokuG      |
 | 253 | Old Unown C | かせん     | Kasen         |
 | 254 | Old Unown D | ビビット    | VIVIT         |
@@ -277,12 +277,12 @@ See the following files for more information:
 | 268 | Old Unown R | JKさなえ   | JKSanae       |
 | 269 | Old Unown S | MPすいか   | MPSuika       |
 | 270 | Old Unown T | アヤカシ    | Ayakashi      |
-| 271 | Old Unown U | ？        |               |
-| 272 | Old Unown V | ？        |               |
-| 273 | Old Unown W | ？        |               |
-| 274 | Old Unown X | ？        |               |
-| 275 | Old Unown Y | ？        |               |
-| 276 | Old Unown Z | ？        |               |
+| 271 | Old Unown U | ？        | ?             |
+| 272 | Old Unown V | ？        | ?             |
+| 273 | Old Unown W | ？        | ?             |
+| 274 | Old Unown X | ？        | ?             |
+| 275 | Old Unown Y | ？        | ?             |
+| 276 | Old Unown Z | ？        | ?             |
 | 277 | Treecko     | Sこまち    | SKomachi      |
 | 278 | Grovyle     | Aこまち    | AKomachi      |
 | 279 | Sceptile    | Aえいりん   | AEirin        |
@@ -347,13 +347,13 @@ See the following files for more information:
 | 338 | Manectric   | Tさなえ    | TSanae        |
 | 339 | Numel       | Aフラン    | AFlandre      |
 | 340 | Camerupt    | Aようせい   | ADaiyousei    |
-| 341 | Spheal      | 363       |               |
-| 342 | Sealeo      | 364       |               |
-| 343 | Walrein     | 365       |               |
+| 341 | Spheal      | 363       | 363           |
+| 342 | Sealeo      | 364       | 364           |
+| 343 | Walrein     | 365       | 365           |
 | 344 | Cacnea      | Aえいき    | AShikieiki    |
 | 345 | Cacturne    | Tとよひめ   | TToyohime     |
-| 346 | Snorunt     | 361       |               |
-| 347 | Glalie      | 362       |               |
+| 346 | Snorunt     | 361       | 361           |
+| 347 | Glalie      | 362       | 362           |
 | 348 | Lunatone    | ここんがら  | CKonngara     |
 | 349 | Solrock     | ちびまがん  | CYuugenMagan  |
 | 350 | Azurill     | Aすいか    | ASuika        |
@@ -366,23 +366,23 @@ See the following files for more information:
 | 357 | Medicham    | Hレティ    | HLetty        |
 | 358 | Swablu      | Sよりひめ   | SYorihime     |
 | 359 | Altaria     | ちんぎょく  | CShinGyoku    |
-| 360 | Wynaut      | 360       |               |
+| 360 | Wynaut      | 360       | 360           |
 | 361 | Duskull     | AリリーB   | ALilyBlack    |
-| 362 | Dusclops    | 356       |               |
+| 362 | Dusclops    | 356       | 356           |
 | 363 | Roselia     | Dゆうぎ    | DYuugi        |
 | 364 | Slakoth     | Tナズー     | TNazrin       |
 | 365 | Vigoroth    | Hナズー     | HNazrin       |
 | 366 | Slaking     | Tキスメ    | TKisume       |
 | 367 | Gulpin      | Aゆうぎ    | AYuugi        |
 | 368 | Swalot      | Hけいね    | HKeine        |
-| 369 | Tropius     | 357       |               |
+| 369 | Tropius     | 357       | 357           |
 | 370 | Whismur     | Dいく      | DIku          |
 | 371 | Loudred     | Tいく      | TIku          |
 | 372 | Exploud     | Aみのりこ   | AMinoriko     |
 | 373 | Clamperl    | りんのすけ  | Rinnosuke     |
 | 374 | Huntail     | チルノA    | AdCirno       |
 | 375 | Gorebyss    | レイセンA   | AdReisen      |
-| 376 | Absol       | 359       |               |
+| 376 | Absol       | 359       | 359           |
 | 377 | Shuppet     | Sサリエル   | SSariel       |
 | 378 | Banette     | AリリーW   | ALilyWhite    |
 | 379 | Seviper     | ちびみま    | CMima         |
@@ -391,7 +391,7 @@ See the following files for more information:
 | 382 | Aron        | Aパチェ    | APatchouli    |
 | 383 | Lairon      | Sまりさ    | SMarisa       |
 | 384 | Aggron      | Aまりさ    | AMarisa       |
-| 385 | Castform    | 351       |               |
+| 385 | Castform    | 351       | 351           |
 | 386 | Volbeat     | Dむらさ    | DMurasa       |
 | 387 | Illumise    | Aむらさ    | AMurasa       |
 | 388 | Lileep      | Aスター     | AStarSapphire |
@@ -409,40 +409,12 @@ See the following files for more information:
 | 400 | Metagross   | ユカリA    | AdYukari      |
 | 401 | Regirock    | ランA      | AdRan         |
 | 402 | Regice      | チェンA    | AdChen        |
-| 403 | Registeel   | 379       |               |
+| 403 | Registeel   | 379       | 379           |
 | 404 | Kyogre      | アリスB    | Dark Alice    |
 | 405 | Groudon     | てんま     | Tenma         |
 | 406 | Rayquaza    | せんだい    | Sendai        |
-| 407 | Latias      | 380       |               |
-| 408 | Latios      | 381       |               |
-| 409 | Jirachi     | 385       |               |
-| 410 | Deoxys      | 386       |               |
-| 411 | Chimecho    | 358       |               |
-| 412 | Egg         |           |               |
-| 413 | Unown B     |           |               |
-| 414 | Unown C     |           |               |
-| 415 | Unown D     |           |               |
-| 416 | Unown E     |           |               |
-| 417 | Unown F     |           |               |
-| 418 | Unown G     |           |               |
-| 419 | Unown H     |           |               |
-| 420 | Unown I     |           |               |
-| 421 | Unown J     |           |               |
-| 422 | Unown K     |           |               |
-| 423 | Unown L     |           |               |
-| 424 | Unown M     |           |               |
-| 425 | Unown N     |           |               |
-| 426 | Unown O     |           |               |
-| 427 | Unown P     |           |               |
-| 428 | Unown Q     |           |               |
-| 429 | Unown R     |           |               |
-| 430 | Unown S     |           |               |
-| 431 | Unown T     |           |               |
-| 432 | Unown U     |           |               |
-| 433 | Unown V     |           |               |
-| 434 | Unown W     |           |               |
-| 435 | Unown X     |           |               |
-| 436 | Unown Y     |           |               |
-| 437 | Unown Z     |           |               |
-| 438 | Unown Emark |           |               |
-| 439 | Unown Qmark |           |               |
+| 407 | Latias      | 380       | 380           |
+| 408 | Latios      | 381       | 381           |
+| 409 | Jirachi     | 385       | 385           |
+| 410 | Deoxys      | 386       | 386           |
+| 411 | Chimecho    | 358       | 358           |
